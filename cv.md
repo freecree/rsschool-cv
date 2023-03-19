@@ -4,11 +4,11 @@
 
 ## Contact info:
 
-**Phone:** +38 093 310 5195
-**E-mail:** bohdansidorov@gmail.com
-**Telegram:** @bugdone_f
-**[Portfolio](freecree.github.io)**
-**[LinkedIn](https://www.linkedin.com/in/bohdan-sidorov-5223b0202/)** 
+**Phone:** +38 093 310 5195<br/>
+**E-mail:** bohdansidorov@gmail.com<br/>
+**Telegram:** @bugdone_f<br/>
+**[Portfolio](freecree.github.io)**<br/>
+**[LinkedIn](https://www.linkedin.com/in/bohdan-sidorov-5223b0202/)**<br/>
 
 
 
